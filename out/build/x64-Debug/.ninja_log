@@ -1,0 +1,27 @@
+# ninja log v6
+422	813	7945471118911271	CMakeFiles/fight-for-glory.dir/src/main.cpp.obj	d74e6651924d7f62
+384	680	7945471118514852	lib/glfw-3.4/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	3822b61a454abf99
+358	651	7945471118270065	lib/glfw-3.4/src/CMakeFiles/glfw.dir/win32_time.c.obj	57e9155f38d07c01
+44	356	7945471115124645	lib/glfw-3.4/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	355e5460e90cd974
+30	376	7945471114986675	lib/glfw-3.4/src/CMakeFiles/glfw.dir/vulkan.c.obj	9f6b99739ba9bea0
+17	435	7945471114864961	lib/glfw-3.4/src/CMakeFiles/glfw.dir/input.c.obj	67b61da1b773dfd6
+813	991	7945471122808584	fight-for-glory.exe	cea76295b9817e25
+53	367	7945471115216526	lib/glfw-3.4/src/CMakeFiles/glfw.dir/null_monitor.c.obj	97ed0e22fe9e23ff
+35	383	7945471115033098	lib/glfw-3.4/src/CMakeFiles/glfw.dir/window.c.obj	19ef64d6824932cf
+408	677	7945471118774024	lib/glfw-3.4/src/CMakeFiles/glfw.dir/wgl_context.c.obj	78c749e4ed47c49e
+63	391	7945471115307632	lib/glfw-3.4/src/CMakeFiles/glfw.dir/null_joystick.c.obj	e25ae22b9de6e9e9
+39	400	7945471115078836	lib/glfw-3.4/src/CMakeFiles/glfw.dir/egl_context.c.obj	2385d841a69f9a9b
+515	593	7945471119842049	lib/glad/glad.lib	a09f274eccb1ac73
+10	408	7945471114773748	lib/glfw-3.4/src/CMakeFiles/glfw.dir/context.c.obj	f56e7e93843c1a98
+21	415	7945471114895311	lib/glfw-3.4/src/CMakeFiles/glfw.dir/monitor.c.obj	262331fc0eecf4e9
+49	422	7945471115170934	lib/glfw-3.4/src/CMakeFiles/glfw.dir/null_init.c.obj	62c46a367e00343f
+26	428	7945471114941001	lib/glfw-3.4/src/CMakeFiles/glfw.dir/platform.c.obj	29e6b834ac5b6fe2
+13	431	7945471114819080	lib/glfw-3.4/src/CMakeFiles/glfw.dir/init.c.obj	a94b700e08b181d0
+58	437	7945471115262059	lib/glfw-3.4/src/CMakeFiles/glfw.dir/null_window.c.obj	df8bcdfa01980e05
+67	467	7945471115353750	lib/glfw-3.4/src/CMakeFiles/glfw.dir/win32_module.c.obj	14fd3c0bb8fd8c23
+415	515	7945471118834816	lib/glad/CMakeFiles/glad.dir/src/gl.c.obj	d2610fa376cbac3e
+367	633	7945471118361518	lib/glfw-3.4/src/CMakeFiles/glfw.dir/win32_thread.c.obj	cec92aba8ba157
+377	667	7945471118454025	lib/glfw-3.4/src/CMakeFiles/glfw.dir/win32_init.c.obj	96dab70fda78815e
+392	683	7945471118606352	lib/glfw-3.4/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	a4b88dbcc23af8f0
+400	688	7945471118682505	lib/glfw-3.4/src/CMakeFiles/glfw.dir/win32_window.c.obj	bddb402065e06f48
+689	737	7945471121578360	lib/glfw-3.4/src/glfw3.lib	fef4e99de21dcda5
