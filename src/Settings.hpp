@@ -7,11 +7,11 @@
 namespace FFG {
 class Settings {
 public:
-  Settings(const std::string file_path);
+  Settings(const std::string filePath);
   ~Settings();
 
 private:
   std::unordered_map<std::string, std::unordered_map<std::string, std::string>>
-      _field;
+      _fields;
 };
 } // namespace FFG
