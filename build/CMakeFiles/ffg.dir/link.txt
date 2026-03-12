@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/ffg.dir/link.d CMakeFiles/ffg.dir/src/main.cpp.o CMakeFiles/ffg.dir/src/Settings.cpp.o -o ffg  lib/glad/libglad.a lib/glfw-3.4/src/libglfw3.a /usr/lib/librt.a -lm -ldl

@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/arden/Projects/Fight-for-Glory/build/cmake_install.cmake",
+		"/home/arden/Projects/Fight-for-Glory/build/lib/glad/cmake_install.cmake",
+		"/home/arden/Projects/Fight-for-Glory/build/lib/glfw-3.4/cmake_install.cmake",
+		"/home/arden/Projects/Fight-for-Glory/build/lib/glfw-3.4/src/cmake_install.cmake",
+		"/home/arden/Projects/Fight-for-Glory/build/lib/glfw-3.4/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
